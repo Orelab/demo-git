@@ -1,0 +1,30 @@
+#conteneur
+{
+    display: flex;
+    flex-wrap: nowrap;
+    background-color: lightgrey;
+
+}
+
+
+.element1 {
+    border: 1px blue solid;
+    flex: 1;
+}
+
+
+.element2 {
+    border: 1px red solid;
+    flex: 2;
+}
+
+
+main>div {
+    flex: 1;
+}
+
+
+
+article img {
+    border: 1px red solid;
+}
